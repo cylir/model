@@ -9,8 +9,6 @@ Original file is located at
 ## 0. Install and Import Dependencies
 """
 
->pip install easyocr
->pip install imutils
 
 import cv2
 from matplotlib import pyplot as plt
@@ -19,7 +17,7 @@ import imutils
 import easyocr
 from PIL import Image
 
->pip intall -U -q PyDrive
+
 from pydrive.auth import GoogleAuth
 from  pydrive.drive import GoogleDrive
 from google.colab import auth
@@ -27,7 +25,7 @@ from google.colab import auth
 import os
 import io
 
->pip install opencv-python
+
 
 """import cv2
 from matplotlib import pyplot as plt
