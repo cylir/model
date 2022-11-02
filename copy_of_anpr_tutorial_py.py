@@ -8,7 +8,8 @@ Original file is located at
 
 ## 0. Install and Import Dependencies
 """
-
+pip install easyocr
+pip install imutils
 
 import cv2
 from matplotlib import pyplot as plt
@@ -25,6 +26,7 @@ from google.colab import auth
 import os
 import io
 
+pip install opencv-python
 
 
 """import cv2
